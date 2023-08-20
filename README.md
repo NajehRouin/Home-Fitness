@@ -17,7 +17,7 @@ A cross-platform Home-Workout app built with React Native, Expo/Cli
 Clone the project
 
 ```bash
-  git clone https://github.com/mohy404/Home-Workout.git
+  git clone https://github.com/NajehRouin/Home-Fitness.git
 ```
 
 Go to the project directory
