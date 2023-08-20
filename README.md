@@ -4,9 +4,9 @@ A cross-platform Home-Workout app built with React Native, Expo/Cli
 
 <img src="https://sworkit.com/wp-content/uploads/2020/06/sworkit-jumping-jack.gif" alt="Home-Workout" width="320px"/>
 
-# Demo
 
-<video src='./demo.mp4' width=180 autoplay />
+
+
 
 ## Features
 
