@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Home-Workout
+  cd Home-Fitness
 ```
 
 Install dependencies
